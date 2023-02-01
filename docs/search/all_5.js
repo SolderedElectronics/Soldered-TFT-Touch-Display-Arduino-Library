@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['f_0',['f',['../struct_c_a_l___m_a_t_r_i_x.html#ab1948181e2c8bcc09fd07f402bd5457a',1,'CAL_MATRIX']]]
 ];
