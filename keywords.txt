@@ -6,11 +6,17 @@
 # Datatypes (KEYWORD1)
 ##################################################
 
+TFTDisplay KEYWORD1
+TFTTouch KEYWORD1
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
 begin	KEYWORD2
+calibrate KEYWORD2
+getX KEYWORD2
+getY KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)

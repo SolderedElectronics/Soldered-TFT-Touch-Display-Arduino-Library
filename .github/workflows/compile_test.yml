@@ -47,5 +47,9 @@ jobs:
           fqbn: ${{ matrix.board.fqbn }}
           libraries: |
             - source-path: ./
+            - name: Adafruit ILI9341
+            - name: ADS7846
+            - name: Adafruit GFX Library
+            - name: digitalWriteFast
           sketch-paths: |
             - ./examples/
