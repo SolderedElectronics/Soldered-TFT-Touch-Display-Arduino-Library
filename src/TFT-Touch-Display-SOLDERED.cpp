@@ -14,16 +14,16 @@
 
 /**
  * @brief Calibrate touch screen.
- * 
+ *
  * @param int _xMin
  *        The raw value we get by the getXraw() function when touching the left edge of the display.
- * 
+ *
  * @param int _xMax
  *        The raw value we get by the getXraw() function when touching the right edge of the display.
- * 
+ *
  * @param int _yMin
  *        The raw value we get by the getYraw() function when touching the top edge of the display.
- * 
+ *
  * @param int _yMax
  *        The raw value we get by the getYraw() function when touching the bottom edge of the display.
  */
@@ -38,7 +38,7 @@ void TFTTouch::calibrate(int _xMin, int _xMax, int _yMin, int _yMax)
 
 /**
  *  @brief Get X coordinate of the touched point on the screen.
- * 
+ *
  */
 int TFTTouch::getX()
 {
